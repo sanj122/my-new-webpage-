@@ -4,11 +4,11 @@
     <title>Sanjana Web Page</title>
 <style>
   h1{
-  color:blue;
+  color:rgb(72, 111, 175);
 </head>
   <body>
-    <h1>Sanjana</h1>
-    <h2>about sanjana</h2>
+    <h1>Web Application</h1>
+    <h2>About</h2>
     <p>
       Sanjana is a ComputerScience Engineer,<br> she completed her Bachelors at Si Venkateswara College of Engineering and Technology
     </p>
