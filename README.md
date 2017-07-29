@@ -5,6 +5,7 @@
 <style>
   h1{
   color:rgb(72, 111, 175);
+    </style>
 </head>
   <body>
     <h1>Web Application</h1>
